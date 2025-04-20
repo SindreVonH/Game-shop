@@ -1,4 +1,4 @@
-import GenreButton from "./Genrebutton";
+import GenreButton from "./GenreButton";
 import { genreButtons } from "../utils/genres";
 
 export default function GenreButtonGrid() {

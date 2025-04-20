@@ -1,5 +1,5 @@
 import { useGenresPageData } from "../hooks/useGenresPageData";
-import GenreButtonGrid from "../components/GamebuttonGrid";
+import GenreButtonGrid from "../components/GameButtonGrid";
 import GameCard from "../components/GameCard";
 
 export default function GenresPage() {

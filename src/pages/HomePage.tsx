@@ -1,4 +1,4 @@
-import GenreButtonGrid from "../components/GamebuttonGrid";
+import GenreButtonGrid from "../components/GameButtonGrid";
 import GameCard from "../components/GameCard";
 import { useHomePageData } from "../hooks/useHomePageData";
 
