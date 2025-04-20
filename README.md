@@ -4,7 +4,7 @@ This project is a responsive retro game library built with **React** and **TypeS
 
 ## 🔗 Live Demo
 
-[View deployed project on Netlify](https://your-netlify-url.netlify.app)
+[View deployed project on Netlify](https://game-shop-v1.netlify.app/)
 
 ## 🛠️ Technologies Used
 
