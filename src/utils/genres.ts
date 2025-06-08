@@ -3,37 +3,37 @@
 export const genreButtons = [
   {
     label: "Action",
-    image: "/src/images/action.png",
-    ringColor: "ring-pink-500",
+    image: "/images/genres/action.png",
+    ringColor: "border-pink-500",
   },
   {
     label: "Strategy",
-    image: "/src/images/strategy.png",
-    ringColor: "ring-green-500",
+    image: "/images/genres/strategy.png",
+    ringColor: "border-green-500",
   },
   {
     label: "Simulation",
-    image: "/src/images/simulation.png",
-    ringColor: "ring-teal-500",
+    image: "/images/genres/simulation.png",
+    ringColor: "border-teal-500",
   },
   {
     label: "Puzzle",
-    image: "/src/images/puzzle.png",
-    ringColor: "ring-blue-500",
+    image: "/images/genres/puzzle.png",
+    ringColor: "border-blue-500",
   },
   {
     label: "Racing / Driving",
-    image: "/src/images/racing.png",
-    ringColor: "ring-yellow-500",
+    image: "/images/genres/racing.png",
+    ringColor: "border-yellow-500",
   },
   {
     label: "Role-Playing (RPG)",
-    image: "/src/images/roleplay.png",
-    ringColor: "ring-purple-500",
+    image: "/images/genres/roleplay.png",
+    ringColor: "border-purple-500",
   },
   {
     label: "Educational",
-    image: "/src/images/educational.png",
-    ringColor: "ring-cyan-500",
+    image: "/images/genres/educational.png",
+    ringColor: "border-cyan-500",
   },
 ];
