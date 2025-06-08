@@ -32,7 +32,7 @@ export default function HomePage() {
 
         <header>
           <h1 className="text-6xl font-extrabold text-center bg-gradient-to-r from-pink-500 via-orange-400 to-cyan-400 text-transparent bg-clip-text drop-shadow-lg tracking-tight">
-            RETRO <br /> GAMES
+            RETRO GAMES
           </h1>
         </header>
 
